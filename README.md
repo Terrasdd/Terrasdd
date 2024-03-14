@@ -12,8 +12,6 @@
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terrasdd&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
-    [snake gif](https://github.com/Terrasdd/Terrasdd/blob/output/github-contribution-grid-snake.svg)
-
 <h2 style="color: #ba6771;">Connect with me 👇
 </h2>
 
