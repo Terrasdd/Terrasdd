@@ -16,6 +16,7 @@
 </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/reinaldopaixao)
+[![DIO Profile](https://img.shields.io/badge/DIO-Profile-brightgreen?style=for-the-badge)](https://www.dio.me/users/reinaldoterrad2)
 
 <!--
 **Terrasdd/Terrasdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
